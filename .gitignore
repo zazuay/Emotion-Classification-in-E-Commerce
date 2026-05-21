@@ -219,3 +219,10 @@ __marimo__/
 
 # Dataset (download from Mendeley)
 data/raw/
+
+data/raw/dataset.csv
+models/
+*.pt
+*.bin
+__pycache__/
+.ipynb_checkpoints/
