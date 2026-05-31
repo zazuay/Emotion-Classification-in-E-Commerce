@@ -1,0 +1,2 @@
+model,accuracy,weighted_f1,macro_f1,f1_Happy,f1_Love,f1_Sadness,f1_Fear,f1_Anger
+BiLSTM-FastText,0.66,0.64,0.43,0.77,0.45,0.43,0.1,0.43
