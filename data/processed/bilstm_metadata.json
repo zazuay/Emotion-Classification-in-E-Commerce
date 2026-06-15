@@ -1,0 +1,6 @@
+{
+  "fasttext_active": true,
+  "fasttext_match_pct": 99.95,
+  "vocab_size": 3800,
+  "seed": 42
+}
